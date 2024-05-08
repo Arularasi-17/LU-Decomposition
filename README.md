@@ -52,6 +52,8 @@ print(X)
 
 ## Output:
 ![lu decomposition]()
+![alt text](<Screenshot 2024-05-08 092315.png>)
+![alt text](<Screenshot 2024-05-08 092336.png>)
 
 
 ## Result:
